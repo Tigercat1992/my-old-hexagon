@@ -1,0 +1,10 @@
+canvas {
+  /*border: 2px solid red;*/
+  position: absolute;
+  left: 0;
+}
+
+.expandButton{
+	position: absolute;
+	left: 900px;
+}
